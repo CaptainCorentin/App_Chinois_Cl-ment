@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.112.3",
     "next": "16.3.2",
     "pinyin-pro": "^3.29.3",
     "react": "19.2.8",

@@ -10,7 +10,13 @@ type Mot = {
   traduction: string;
 };
 
-export default function Flashcard({ mot }: { mot: Mot }) {
+export default function Flashcard({
+  mot,
+  onAnswer,
+}: {
+  mot: Mot;
+  onAnswer: (correct: boolean) => void;
+}) {
   const [revele, setRevele] = useState(false);
 
   return (
@@ -33,6 +39,25 @@ export default function Flashcard({ mot }: { mot: Mot }) {
       )}
 
       <SpeakButton text={mot.hanzi} />
+
+      {revele && (
+        <div className="flex w-full gap-3 pt-2">
+          <button
+            type="button"
+            onClick={() => onAnswer(false)}
+            className="flex-1 rounded-lg bg-red-100 px-4 py-2 text-sm font-medium text-red-700 active:scale-95 transition"
+          >
+            ❌ Je ne savais pas
+          </button>
+          <button
+            type="button"
+            onClick={() => onAnswer(true)}
+            className="flex-1 rounded-lg bg-green-100 px-4 py-2 text-sm font-medium text-green-700 active:scale-95 transition"
+          >
+            ✅ Je savais
+          </button>
+        </div>
+      )}
     </div>
   );
 }

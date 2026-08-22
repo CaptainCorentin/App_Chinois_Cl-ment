@@ -12,6 +12,9 @@ export default function Navbar() {
       <Link href="/lecons" className="text-sm font-medium text-gray-600 hover:text-gray-900">
         Leçons
       </Link>
+      <Link href="/progres" className="text-sm font-medium text-gray-600 hover:text-gray-900">
+        Progrès
+      </Link>
     </nav>
   );
 }
