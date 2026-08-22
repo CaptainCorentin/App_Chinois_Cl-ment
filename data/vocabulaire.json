@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "hanzi": "你好",
+    "pinyin": "nǐ hǎo",
+    "traduction": "bonjour"
+  },
+  {
+    "id": "2",
+    "hanzi": "谢谢",
+    "pinyin": "xiè xiè",
+    "traduction": "merci"
+  },
+  {
+    "id": "3",
+    "hanzi": "朋友",
+    "pinyin": "péng yǒu",
+    "traduction": "ami(e)"
+  },
+  {
+    "id": "4",
+    "hanzi": "喝水",
+    "pinyin": "hē shuǐ",
+    "traduction": "boire de l'eau"
+  },
+  {
+    "id": "5",
+    "hanzi": "学习",
+    "pinyin": "xué xí",
+    "traduction": "étudier / apprendre"
+  }
+]
