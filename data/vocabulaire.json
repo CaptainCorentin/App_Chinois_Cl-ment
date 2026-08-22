@@ -1,0 +1,2996 @@
+[
+  {
+    "id": "1",
+    "hanzi": "的",
+    "pinyin": "de",
+    "traduction": "particule de détermination"
+  },
+  {
+    "id": "2",
+    "hanzi": "了",
+    "pinyin": "le",
+    "traduction": "particule grammaticale"
+  },
+  {
+    "id": "3",
+    "hanzi": "在",
+    "pinyin": "zài",
+    "traduction": "à, en, être en train de"
+  },
+  {
+    "id": "4",
+    "hanzi": "是",
+    "pinyin": "shì",
+    "traduction": "être"
+  },
+  {
+    "id": "5",
+    "hanzi": "我",
+    "pinyin": "wǒ",
+    "traduction": "je, moi"
+  },
+  {
+    "id": "6",
+    "hanzi": "和",
+    "pinyin": "hé",
+    "traduction": "et, avec"
+  },
+  {
+    "id": "7",
+    "hanzi": "有",
+    "pinyin": "yǒu",
+    "traduction": "avoir, posséder"
+  },
+  {
+    "id": "8",
+    "hanzi": "你",
+    "pinyin": "nǐ",
+    "traduction": "tu, toi"
+  },
+  {
+    "id": "9",
+    "hanzi": "个",
+    "pinyin": "gè",
+    "traduction": "classificateur"
+  },
+  {
+    "id": "10",
+    "hanzi": "也",
+    "pinyin": "yě",
+    "traduction": "aussi, également"
+  },
+  {
+    "id": "11",
+    "hanzi": "这",
+    "pinyin": "zhè",
+    "traduction": "ce, ceci, cet, cette"
+  },
+  {
+    "id": "12",
+    "hanzi": "不",
+    "pinyin": "bù",
+    "traduction": "non, particule de négation"
+  },
+  {
+    "id": "13",
+    "hanzi": "他",
+    "pinyin": "tā",
+    "traduction": "il, lui"
+  },
+  {
+    "id": "14",
+    "hanzi": "上",
+    "pinyin": "shàng",
+    "traduction": "monter, au-dessus"
+  },
+  {
+    "id": "15",
+    "hanzi": "人",
+    "pinyin": "rén",
+    "traduction": "personne, être humain"
+  },
+  {
+    "id": "16",
+    "hanzi": "年",
+    "pinyin": "nián",
+    "traduction": "année"
+  },
+  {
+    "id": "17",
+    "hanzi": "对",
+    "pinyin": "duì",
+    "traduction": "correct, juste, paire"
+  },
+  {
+    "id": "18",
+    "hanzi": "说",
+    "pinyin": "shuō",
+    "traduction": "dire, parler"
+  },
+  {
+    "id": "19",
+    "hanzi": "都",
+    "pinyin": "dōu",
+    "traduction": "tout, tous"
+  },
+  {
+    "id": "20",
+    "hanzi": "要",
+    "pinyin": "yào",
+    "traduction": "important, vouloir, demander"
+  },
+  {
+    "id": "21",
+    "hanzi": "到",
+    "pinyin": "dào",
+    "traduction": "arriver, atteindre, jusqu'à"
+  },
+  {
+    "id": "22",
+    "hanzi": "日",
+    "pinyin": "rì",
+    "traduction": "soleil, jour"
+  },
+  {
+    "id": "23",
+    "hanzi": "我们",
+    "pinyin": "wǒmen",
+    "traduction": "nous"
+  },
+  {
+    "id": "24",
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "traduction": "bon, bien"
+  },
+  {
+    "id": "25",
+    "hanzi": "月",
+    "pinyin": "yuè",
+    "traduction": "mois, lune"
+  },
+  {
+    "id": "26",
+    "hanzi": "会",
+    "pinyin": "huì",
+    "traduction": "être capable de, pouvoir"
+  },
+  {
+    "id": "27",
+    "hanzi": "大",
+    "pinyin": "dà",
+    "traduction": "grand, massif"
+  },
+  {
+    "id": "28",
+    "hanzi": "来",
+    "pinyin": "lái",
+    "traduction": "venir, arriver"
+  },
+  {
+    "id": "29",
+    "hanzi": "还",
+    "pinyin": "hái",
+    "traduction": "encore, de plus, également"
+  },
+  {
+    "id": "30",
+    "hanzi": "后",
+    "pinyin": "hòu",
+    "traduction": "derrière, après"
+  },
+  {
+    "id": "31",
+    "hanzi": "两",
+    "pinyin": "liǎng",
+    "traduction": "deux, quelques"
+  },
+  {
+    "id": "32",
+    "hanzi": "没有",
+    "pinyin": "méiyǒu",
+    "traduction": "non, il n'y en a pas"
+  },
+  {
+    "id": "33",
+    "hanzi": "去",
+    "pinyin": "qù",
+    "traduction": "aller"
+  },
+  {
+    "id": "34",
+    "hanzi": "很",
+    "pinyin": "hěn",
+    "traduction": "très"
+  },
+  {
+    "id": "35",
+    "hanzi": "给",
+    "pinyin": "gěi",
+    "traduction": "pour, donner, offrir"
+  },
+  {
+    "id": "36",
+    "hanzi": "中国",
+    "pinyin": "Zhōngguó",
+    "traduction": "Chine"
+  },
+  {
+    "id": "37",
+    "hanzi": "元",
+    "pinyin": "yuán",
+    "traduction": "yuan (monnaie chinoise)"
+  },
+  {
+    "id": "38",
+    "hanzi": "看",
+    "pinyin": "kàn",
+    "traduction": "regarder, voir"
+  },
+  {
+    "id": "39",
+    "hanzi": "下",
+    "pinyin": "xià",
+    "traduction": "descendre, en-dessous"
+  },
+  {
+    "id": "40",
+    "hanzi": "她",
+    "pinyin": "tā",
+    "traduction": "elle"
+  },
+  {
+    "id": "41",
+    "hanzi": "可以",
+    "pinyin": "kěyǐ",
+    "traduction": "être capable de, pouvoir, être possible"
+  },
+  {
+    "id": "42",
+    "hanzi": "这个",
+    "pinyin": "zhège",
+    "traduction": "ceci, celui-ci"
+  },
+  {
+    "id": "43",
+    "hanzi": "能",
+    "pinyin": "néng",
+    "traduction": "pouvoir"
+  },
+  {
+    "id": "44",
+    "hanzi": "他们",
+    "pinyin": "tāmen",
+    "traduction": "ils"
+  },
+  {
+    "id": "45",
+    "hanzi": "做",
+    "pinyin": "zuò",
+    "traduction": "faire, fabriquer"
+  },
+  {
+    "id": "46",
+    "hanzi": "想",
+    "pinyin": "xiǎng",
+    "traduction": "penser, vouloir"
+  },
+  {
+    "id": "47",
+    "hanzi": "那",
+    "pinyin": "nà",
+    "traduction": "ce, cet, cela, donc"
+  },
+  {
+    "id": "48",
+    "hanzi": "新",
+    "pinyin": "xīn",
+    "traduction": "nouveau, neuf"
+  },
+  {
+    "id": "49",
+    "hanzi": "小",
+    "pinyin": "xiǎo",
+    "traduction": "petit, jeune"
+  },
+  {
+    "id": "50",
+    "hanzi": "天",
+    "pinyin": "tiān",
+    "traduction": "jour, ciel"
+  },
+  {
+    "id": "51",
+    "hanzi": "工作",
+    "pinyin": "gōngzuò",
+    "traduction": "travail, travailler"
+  },
+  {
+    "id": "52",
+    "hanzi": "里",
+    "pinyin": "lǐ",
+    "traduction": "à l'intérieur, dans"
+  },
+  {
+    "id": "53",
+    "hanzi": "前",
+    "pinyin": "qián",
+    "traduction": "devant, avant"
+  },
+  {
+    "id": "54",
+    "hanzi": "公司",
+    "pinyin": "gōngsī",
+    "traduction": "compagnie, entreprise"
+  },
+  {
+    "id": "55",
+    "hanzi": "问题",
+    "pinyin": "wèntí",
+    "traduction": "question, problème"
+  },
+  {
+    "id": "56",
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "traduction": "maison, famille"
+  },
+  {
+    "id": "57",
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "traduction": "particule de suggestion"
+  },
+  {
+    "id": "58",
+    "hanzi": "什么",
+    "pinyin": "shénme",
+    "traduction": "que, quoi, quel"
+  },
+  {
+    "id": "59",
+    "hanzi": "没",
+    "pinyin": "méi",
+    "traduction": "ne pas (avoir)"
+  },
+  {
+    "id": "60",
+    "hanzi": "现在",
+    "pinyin": "xiànzài",
+    "traduction": "maintenant"
+  },
+  {
+    "id": "61",
+    "hanzi": "真",
+    "pinyin": "zhēn",
+    "traduction": "vraiment, vrai"
+  },
+  {
+    "id": "62",
+    "hanzi": "本",
+    "pinyin": "běn",
+    "traduction": "classificateur pour les livres"
+  },
+  {
+    "id": "63",
+    "hanzi": "太",
+    "pinyin": "tài",
+    "traduction": "trop, très"
+  },
+  {
+    "id": "64",
+    "hanzi": "再",
+    "pinyin": "zài",
+    "traduction": "de nouveau, encore, puis"
+  },
+  {
+    "id": "65",
+    "hanzi": "时间",
+    "pinyin": "shíjiān",
+    "traduction": "temps, durée, période"
+  },
+  {
+    "id": "66",
+    "hanzi": "爱",
+    "pinyin": "ài",
+    "traduction": "aimer, amour"
+  },
+  {
+    "id": "67",
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "traduction": "manger"
+  },
+  {
+    "id": "68",
+    "hanzi": "时候",
+    "pinyin": "shíhou",
+    "traduction": "temps, moment"
+  },
+  {
+    "id": "69",
+    "hanzi": "呢",
+    "pinyin": "ne",
+    "traduction": "particule affirmative ou interrogative"
+  },
+  {
+    "id": "70",
+    "hanzi": "只",
+    "pinyin": "zhī",
+    "traduction": "classificateur pour animaux"
+  },
+  {
+    "id": "71",
+    "hanzi": "今天",
+    "pinyin": "jīntiān",
+    "traduction": "aujourd'hui"
+  },
+  {
+    "id": "72",
+    "hanzi": "它",
+    "pinyin": "tā",
+    "traduction": "il, elle, lui (objet)"
+  },
+  {
+    "id": "73",
+    "hanzi": "分",
+    "pinyin": "fēn",
+    "traduction": "minute, centime, diviser"
+  },
+  {
+    "id": "74",
+    "hanzi": "一些",
+    "pinyin": "yìxiē",
+    "traduction": "quelques, un peu de"
+  },
+  {
+    "id": "75",
+    "hanzi": "这些",
+    "pinyin": "zhèxiē",
+    "traduction": "ceux-ci, ces"
+  },
+  {
+    "id": "76",
+    "hanzi": "大家",
+    "pinyin": "dàjiā",
+    "traduction": "tout le monde, tous"
+  },
+  {
+    "id": "77",
+    "hanzi": "吗",
+    "pinyin": "ma",
+    "traduction": "particule interrogative"
+  },
+  {
+    "id": "78",
+    "hanzi": "几",
+    "pinyin": "jǐ",
+    "traduction": "combien (1 à 10)"
+  },
+  {
+    "id": "79",
+    "hanzi": "事",
+    "pinyin": "shì",
+    "traduction": "affaire, chose"
+  },
+  {
+    "id": "80",
+    "hanzi": "今年",
+    "pinyin": "jīnnián",
+    "traduction": "cette année"
+  },
+  {
+    "id": "81",
+    "hanzi": "喜欢",
+    "pinyin": "xǐhuan",
+    "traduction": "aimer, apprécier"
+  },
+  {
+    "id": "82",
+    "hanzi": "知道",
+    "pinyin": "zhīdào",
+    "traduction": "savoir"
+  },
+  {
+    "id": "83",
+    "hanzi": "车",
+    "pinyin": "chē",
+    "traduction": "véhicule, voiture"
+  },
+  {
+    "id": "84",
+    "hanzi": "怎么",
+    "pinyin": "zěnme",
+    "traduction": "comment, pourquoi"
+  },
+  {
+    "id": "85",
+    "hanzi": "外",
+    "pinyin": "wài",
+    "traduction": "extérieur, étranger"
+  },
+  {
+    "id": "86",
+    "hanzi": "谁",
+    "pinyin": "shéi",
+    "traduction": "qui"
+  },
+  {
+    "id": "87",
+    "hanzi": "你们",
+    "pinyin": "nǐmen",
+    "traduction": "vous"
+  },
+  {
+    "id": "88",
+    "hanzi": "见",
+    "pinyin": "jiàn",
+    "traduction": "voir, rencontrer"
+  },
+  {
+    "id": "89",
+    "hanzi": "找",
+    "pinyin": "zhǎo",
+    "traduction": "chercher, rechercher"
+  },
+  {
+    "id": "90",
+    "hanzi": "岁",
+    "pinyin": "suì",
+    "traduction": "an(s), année(s), âge"
+  },
+  {
+    "id": "91",
+    "hanzi": "水",
+    "pinyin": "shuǐ",
+    "traduction": "eau"
+  },
+  {
+    "id": "92",
+    "hanzi": "非常",
+    "pinyin": "fēicháng",
+    "traduction": "très, extraordinaire"
+  },
+  {
+    "id": "93",
+    "hanzi": "买",
+    "pinyin": "mǎi",
+    "traduction": "acheter"
+  },
+  {
+    "id": "94",
+    "hanzi": "开",
+    "pinyin": "kāi",
+    "traduction": "ouvrir, démarrer, conduire"
+  },
+  {
+    "id": "95",
+    "hanzi": "觉得",
+    "pinyin": "juéde",
+    "traduction": "ressentir, penser"
+  },
+  {
+    "id": "96",
+    "hanzi": "不要",
+    "pinyin": "búyào",
+    "traduction": "ne pas (impératif)"
+  },
+  {
+    "id": "97",
+    "hanzi": "号",
+    "pinyin": "hào",
+    "traduction": "numéro"
+  },
+  {
+    "id": "98",
+    "hanzi": "叫",
+    "pinyin": "jiào",
+    "traduction": "appeler, crier"
+  },
+  {
+    "id": "99",
+    "hanzi": "学生",
+    "pinyin": "xuéshēng",
+    "traduction": "étudiant, élève"
+  },
+  {
+    "id": "100",
+    "hanzi": "钱",
+    "pinyin": "qián",
+    "traduction": "argent, monnaie"
+  },
+  {
+    "id": "101",
+    "hanzi": "请",
+    "pinyin": "qǐng",
+    "traduction": "s'il vous plaît, inviter"
+  },
+  {
+    "id": "102",
+    "hanzi": "问",
+    "pinyin": "wèn",
+    "traduction": "demander, questionner"
+  },
+  {
+    "id": "103",
+    "hanzi": "孩子",
+    "pinyin": "háizi",
+    "traduction": "enfant"
+  },
+  {
+    "id": "104",
+    "hanzi": "听",
+    "pinyin": "tīng",
+    "traduction": "écouter, entendre"
+  },
+  {
+    "id": "105",
+    "hanzi": "回",
+    "pinyin": "huí",
+    "traduction": "revenir, retourner"
+  },
+  {
+    "id": "106",
+    "hanzi": "女",
+    "pinyin": "nǚ",
+    "traduction": "femme, féminin"
+  },
+  {
+    "id": "107",
+    "hanzi": "一下",
+    "pinyin": "yíxià",
+    "traduction": "un instant, un coup"
+  },
+  {
+    "id": "108",
+    "hanzi": "东西",
+    "pinyin": "dōngxi",
+    "traduction": "chose, truc"
+  },
+  {
+    "id": "109",
+    "hanzi": "正在",
+    "pinyin": "zhèngzài",
+    "traduction": "en train de"
+  },
+  {
+    "id": "110",
+    "hanzi": "这里",
+    "pinyin": "zhèlǐ",
+    "traduction": "ici"
+  },
+  {
+    "id": "111",
+    "hanzi": "住",
+    "pinyin": "zhù",
+    "traduction": "habiter, loger"
+  },
+  {
+    "id": "112",
+    "hanzi": "学习",
+    "pinyin": "xuéxí",
+    "traduction": "étudier, apprendre"
+  },
+  {
+    "id": "113",
+    "hanzi": "件",
+    "pinyin": "jiàn",
+    "traduction": "pièce, document, classificateur"
+  },
+  {
+    "id": "114",
+    "hanzi": "朋友",
+    "pinyin": "péngyou",
+    "traduction": "ami"
+  },
+  {
+    "id": "115",
+    "hanzi": "去年",
+    "pinyin": "qùnián",
+    "traduction": "année dernière"
+  },
+  {
+    "id": "116",
+    "hanzi": "那个",
+    "pinyin": "nàge",
+    "traduction": "cela, celui-là"
+  },
+  {
+    "id": "117",
+    "hanzi": "有些",
+    "pinyin": "yǒuxiē",
+    "traduction": "certains, un peu"
+  },
+  {
+    "id": "118",
+    "hanzi": "昨天",
+    "pinyin": "zuótiān",
+    "traduction": "hier"
+  },
+  {
+    "id": "119",
+    "hanzi": "学校",
+    "pinyin": "xuéxiào",
+    "traduction": "école"
+  },
+  {
+    "id": "120",
+    "hanzi": "写",
+    "pinyin": "xiě",
+    "traduction": "écrire"
+  },
+  {
+    "id": "121",
+    "hanzi": "少",
+    "pinyin": "shǎo",
+    "traduction": "peu, quelques"
+  },
+  {
+    "id": "122",
+    "hanzi": "国",
+    "pinyin": "guó",
+    "traduction": "pays, nation"
+  },
+  {
+    "id": "123",
+    "hanzi": "小时",
+    "pinyin": "xiǎoshí",
+    "traduction": "heure"
+  },
+  {
+    "id": "124",
+    "hanzi": "您",
+    "pinyin": "nín",
+    "traduction": "vous (singulier, respectueux)"
+  },
+  {
+    "id": "125",
+    "hanzi": "那些",
+    "pinyin": "nàxiē",
+    "traduction": "ceux-là, ces"
+  },
+  {
+    "id": "126",
+    "hanzi": "电话",
+    "pinyin": "diànhuà",
+    "traduction": "téléphone, appel"
+  },
+  {
+    "id": "127",
+    "hanzi": "睡",
+    "pinyin": "shuì",
+    "traduction": "dormir"
+  },
+  {
+    "id": "128",
+    "hanzi": "学",
+    "pinyin": "xué",
+    "traduction": "apprendre, étudier"
+  },
+  {
+    "id": "129",
+    "hanzi": "口",
+    "pinyin": "kǒu",
+    "traduction": "bouche, classificateur"
+  },
+  {
+    "id": "130",
+    "hanzi": "下午",
+    "pinyin": "xiàwǔ",
+    "traduction": "après-midi"
+  },
+  {
+    "id": "131",
+    "hanzi": "玩",
+    "pinyin": "wán",
+    "traduction": "jouer, s'amuser"
+  },
+  {
+    "id": "132",
+    "hanzi": "明天",
+    "pinyin": "míngtiān",
+    "traduction": "demain"
+  },
+  {
+    "id": "133",
+    "hanzi": "穿",
+    "pinyin": "chuān",
+    "traduction": "porter, mettre des habits"
+  },
+  {
+    "id": "134",
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "traduction": "boire"
+  },
+  {
+    "id": "135",
+    "hanzi": "块",
+    "pinyin": "kuài",
+    "traduction": "morceau de, pièce de"
+  },
+  {
+    "id": "136",
+    "hanzi": "早",
+    "pinyin": "zǎo",
+    "traduction": "tôt, matin"
+  },
+  {
+    "id": "137",
+    "hanzi": "男",
+    "pinyin": "nán",
+    "traduction": "homme, masculin"
+  },
+  {
+    "id": "138",
+    "hanzi": "医院",
+    "pinyin": "yīyuàn",
+    "traduction": "hôpital"
+  },
+  {
+    "id": "139",
+    "hanzi": "分钟",
+    "pinyin": "fēnzhōng",
+    "traduction": "minute"
+  },
+  {
+    "id": "140",
+    "hanzi": "坐",
+    "pinyin": "zuò",
+    "traduction": "s'asseoir"
+  },
+  {
+    "id": "141",
+    "hanzi": "电影",
+    "pinyin": "diànyǐng",
+    "traduction": "film, cinéma"
+  },
+  {
+    "id": "142",
+    "hanzi": "晚上",
+    "pinyin": "wǎnshang",
+    "traduction": "nuit, soir"
+  },
+  {
+    "id": "143",
+    "hanzi": "书",
+    "pinyin": "shū",
+    "traduction": "livre"
+  },
+  {
+    "id": "144",
+    "hanzi": "认识",
+    "pinyin": "rènshi",
+    "traduction": "connaître, savoir"
+  },
+  {
+    "id": "145",
+    "hanzi": "晚",
+    "pinyin": "wǎn",
+    "traduction": "tard, soir"
+  },
+  {
+    "id": "146",
+    "hanzi": "字",
+    "pinyin": "zì",
+    "traduction": "mot, caractère"
+  },
+  {
+    "id": "147",
+    "hanzi": "边",
+    "pinyin": "biān",
+    "traduction": "côté, bord"
+  },
+  {
+    "id": "148",
+    "hanzi": "多少",
+    "pinyin": "duōshao",
+    "traduction": "combien (> 10)"
+  },
+  {
+    "id": "149",
+    "hanzi": "店",
+    "pinyin": "diàn",
+    "traduction": "boutique"
+  },
+  {
+    "id": "150",
+    "hanzi": "卖",
+    "pinyin": "mài",
+    "traduction": "vendre"
+  },
+  {
+    "id": "151",
+    "hanzi": "有的",
+    "pinyin": "yǒude",
+    "traduction": "certains"
+  },
+  {
+    "id": "152",
+    "hanzi": "老师",
+    "pinyin": "lǎoshī",
+    "traduction": "enseignant, professeur"
+  },
+  {
+    "id": "153",
+    "hanzi": "们",
+    "pinyin": "men",
+    "traduction": "suffixe pluriel"
+  },
+  {
+    "id": "154",
+    "hanzi": "冷",
+    "pinyin": "lěng",
+    "traduction": "froid"
+  },
+  {
+    "id": "155",
+    "hanzi": "病",
+    "pinyin": "bìng",
+    "traduction": "maladie, être malade"
+  },
+  {
+    "id": "156",
+    "hanzi": "上午",
+    "pinyin": "shàngwǔ",
+    "traduction": "matinée"
+  },
+  {
+    "id": "157",
+    "hanzi": "半",
+    "pinyin": "bàn",
+    "traduction": "demi"
+  },
+  {
+    "id": "158",
+    "hanzi": "歌",
+    "pinyin": "gē",
+    "traduction": "chanson"
+  },
+  {
+    "id": "159",
+    "hanzi": "热",
+    "pinyin": "rè",
+    "traduction": "chaud, chaleur"
+  },
+  {
+    "id": "160",
+    "hanzi": "妈妈",
+    "pinyin": "māma",
+    "traduction": "maman, mère"
+  },
+  {
+    "id": "161",
+    "hanzi": "电视",
+    "pinyin": "diànshì",
+    "traduction": "télévision"
+  },
+  {
+    "id": "162",
+    "hanzi": "大学",
+    "pinyin": "dàxué",
+    "traduction": "université"
+  },
+  {
+    "id": "163",
+    "hanzi": "哪",
+    "pinyin": "nǎ",
+    "traduction": "quel, quoi"
+  },
+  {
+    "id": "164",
+    "hanzi": "电脑",
+    "pinyin": "diànnǎo",
+    "traduction": "ordinateur"
+  },
+  {
+    "id": "165",
+    "hanzi": "狗",
+    "pinyin": "gǒu",
+    "traduction": "chien"
+  },
+  {
+    "id": "166",
+    "hanzi": "谢谢",
+    "pinyin": "xièxie",
+    "traduction": "merci"
+  },
+  {
+    "id": "167",
+    "hanzi": "儿子",
+    "pinyin": "érzi",
+    "traduction": "fils"
+  },
+  {
+    "id": "168",
+    "hanzi": "些",
+    "pinyin": "xiē",
+    "traduction": "quelques, plusieurs"
+  },
+  {
+    "id": "169",
+    "hanzi": "先生",
+    "pinyin": "xiānsheng",
+    "traduction": "monsieur, maître, mari"
+  },
+  {
+    "id": "170",
+    "hanzi": "唱",
+    "pinyin": "chàng",
+    "traduction": "chanter"
+  },
+  {
+    "id": "171",
+    "hanzi": "睡觉",
+    "pinyin": "shuìjiào",
+    "traduction": "dormir, se coucher"
+  },
+  {
+    "id": "172",
+    "hanzi": "它们",
+    "pinyin": "tāmen",
+    "traduction": "ils, elles (choses, animaux)"
+  },
+  {
+    "id": "173",
+    "hanzi": "哪里",
+    "pinyin": "nǎlǐ",
+    "traduction": "où"
+  },
+  {
+    "id": "174",
+    "hanzi": "同学",
+    "pinyin": "tóngxué",
+    "traduction": "camarade de classe"
+  },
+  {
+    "id": "175",
+    "hanzi": "她们",
+    "pinyin": "tāmen",
+    "traduction": "elles"
+  },
+  {
+    "id": "176",
+    "hanzi": "忙",
+    "pinyin": "máng",
+    "traduction": "occupé, se presser"
+  },
+  {
+    "id": "177",
+    "hanzi": "那里",
+    "pinyin": "nàlǐ",
+    "traduction": "là-bas"
+  },
+  {
+    "id": "178",
+    "hanzi": "天气",
+    "pinyin": "tiānqì",
+    "traduction": "temps, météo"
+  },
+  {
+    "id": "179",
+    "hanzi": "读",
+    "pinyin": "dú",
+    "traduction": "lire"
+  },
+  {
+    "id": "180",
+    "hanzi": "女儿",
+    "pinyin": "nǚ'ér",
+    "traduction": "fille (parenté)"
+  },
+  {
+    "id": "181",
+    "hanzi": "说话",
+    "pinyin": "shuōhuà",
+    "traduction": "parler"
+  },
+  {
+    "id": "182",
+    "hanzi": "名字",
+    "pinyin": "míngzi",
+    "traduction": "nom"
+  },
+  {
+    "id": "183",
+    "hanzi": "医生",
+    "pinyin": "yīshēng",
+    "traduction": "médecin"
+  },
+  {
+    "id": "184",
+    "hanzi": "猫",
+    "pinyin": "māo",
+    "traduction": "chat"
+  },
+  {
+    "id": "185",
+    "hanzi": "看见",
+    "pinyin": "kànjiàn",
+    "traduction": "voir, apercevoir"
+  },
+  {
+    "id": "186",
+    "hanzi": "第",
+    "pinyin": "dì",
+    "traduction": "préfixe ordinal"
+  },
+  {
+    "id": "187",
+    "hanzi": "雪",
+    "pinyin": "xuě",
+    "traduction": "neige"
+  },
+  {
+    "id": "188",
+    "hanzi": "菜",
+    "pinyin": "cài",
+    "traduction": "légume, plat"
+  },
+  {
+    "id": "189",
+    "hanzi": "飞机",
+    "pinyin": "fēijī",
+    "traduction": "avion"
+  },
+  {
+    "id": "190",
+    "hanzi": "漂亮",
+    "pinyin": "piàoliang",
+    "traduction": "joli, beau"
+  },
+  {
+    "id": "191",
+    "hanzi": "早上",
+    "pinyin": "zǎoshang",
+    "traduction": "matin"
+  },
+  {
+    "id": "192",
+    "hanzi": "饭",
+    "pinyin": "fàn",
+    "traduction": "riz cuit, repas"
+  },
+  {
+    "id": "193",
+    "hanzi": "明年",
+    "pinyin": "míngnián",
+    "traduction": "l'année prochaine"
+  },
+  {
+    "id": "194",
+    "hanzi": "高兴",
+    "pinyin": "gāoxìng",
+    "traduction": "content"
+  },
+  {
+    "id": "195",
+    "hanzi": "爸爸",
+    "pinyin": "bàba",
+    "traduction": "papa, père"
+  },
+  {
+    "id": "196",
+    "hanzi": "休息",
+    "pinyin": "xiūxi",
+    "traduction": "se reposer"
+  },
+  {
+    "id": "197",
+    "hanzi": "上班",
+    "pinyin": "shàngbān",
+    "traduction": "aller au travail"
+  },
+  {
+    "id": "198",
+    "hanzi": "课",
+    "pinyin": "kè",
+    "traduction": "leçon, cours"
+  },
+  {
+    "id": "199",
+    "hanzi": "好看",
+    "pinyin": "hǎokàn",
+    "traduction": "beau (à regarder)"
+  },
+  {
+    "id": "200",
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "traduction": "thé"
+  },
+  {
+    "id": "201",
+    "hanzi": "中午",
+    "pinyin": "zhōngwǔ",
+    "traduction": "midi"
+  },
+  {
+    "id": "202",
+    "hanzi": "雨",
+    "pinyin": "yǔ",
+    "traduction": "pluie"
+  },
+  {
+    "id": "203",
+    "hanzi": "姐姐",
+    "pinyin": "jiějie",
+    "traduction": "grande sœur"
+  },
+  {
+    "id": "204",
+    "hanzi": "贵",
+    "pinyin": "guì",
+    "traduction": "précieux, cher"
+  },
+  {
+    "id": "205",
+    "hanzi": "一半",
+    "pinyin": "yíbàn",
+    "traduction": "la moitié"
+  },
+  {
+    "id": "206",
+    "hanzi": "家人",
+    "pinyin": "jiārén",
+    "traduction": "membres de la famille"
+  },
+  {
+    "id": "207",
+    "hanzi": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "traduction": "téléphoner"
+  },
+  {
+    "id": "208",
+    "hanzi": "苹果",
+    "pinyin": "píngguǒ",
+    "traduction": "pomme"
+  },
+  {
+    "id": "209",
+    "hanzi": "大学生",
+    "pinyin": "dàxuéshēng",
+    "traduction": "étudiant à l'université"
+  },
+  {
+    "id": "210",
+    "hanzi": "房间",
+    "pinyin": "fángjiān",
+    "traduction": "chambre, salle, pièce"
+  },
+  {
+    "id": "211",
+    "hanzi": "喂",
+    "pinyin": "wèi",
+    "traduction": "allô (au téléphone)"
+  },
+  {
+    "id": "212",
+    "hanzi": "小学",
+    "pinyin": "xiǎoxué",
+    "traduction": "école primaire"
+  },
+  {
+    "id": "213",
+    "hanzi": "哪个",
+    "pinyin": "nǎge",
+    "traduction": "lequel"
+  },
+  {
+    "id": "214",
+    "hanzi": "起床",
+    "pinyin": "qǐchuáng",
+    "traduction": "se réveiller, sortir du lit"
+  },
+  {
+    "id": "215",
+    "hanzi": "哥哥",
+    "pinyin": "gēge",
+    "traduction": "grand frère"
+  },
+  {
+    "id": "216",
+    "hanzi": "衣服",
+    "pinyin": "yīfu",
+    "traduction": "vêtements"
+  },
+  {
+    "id": "217",
+    "hanzi": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "traduction": "comment ça va ?"
+  },
+  {
+    "id": "218",
+    "hanzi": "好吃",
+    "pinyin": "hǎochī",
+    "traduction": "bon (nourriture)"
+  },
+  {
+    "id": "219",
+    "hanzi": "便宜",
+    "pinyin": "piányi",
+    "traduction": "bon marché, pas cher"
+  },
+  {
+    "id": "220",
+    "hanzi": "对不起",
+    "pinyin": "duìbuqǐ",
+    "traduction": "pardon, excusez-moi"
+  },
+  {
+    "id": "221",
+    "hanzi": "水果",
+    "pinyin": "shuǐguǒ",
+    "traduction": "fruit"
+  },
+  {
+    "id": "222",
+    "hanzi": "星期",
+    "pinyin": "xīngqī",
+    "traduction": "semaine"
+  },
+  {
+    "id": "223",
+    "hanzi": "读书",
+    "pinyin": "dúshū",
+    "traduction": "lire, étudier"
+  },
+  {
+    "id": "224",
+    "hanzi": "妹妹",
+    "pinyin": "mèimei",
+    "traduction": "petite sœur"
+  },
+  {
+    "id": "225",
+    "hanzi": "中学",
+    "pinyin": "zhōngxué",
+    "traduction": "école secondaire"
+  },
+  {
+    "id": "226",
+    "hanzi": "上课",
+    "pinyin": "shàngkè",
+    "traduction": "aller en cours"
+  },
+  {
+    "id": "227",
+    "hanzi": "牛奶",
+    "pinyin": "niúnǎi",
+    "traduction": "lait de vache"
+  },
+  {
+    "id": "228",
+    "hanzi": "没事",
+    "pinyin": "méishì",
+    "traduction": "ce n'est rien, être libre"
+  },
+  {
+    "id": "229",
+    "hanzi": "你好",
+    "pinyin": "nǐ hǎo",
+    "traduction": "bonjour"
+  },
+  {
+    "id": "230",
+    "hanzi": "中文",
+    "pinyin": "Zhōngwén",
+    "traduction": "chinois (langue)"
+  },
+  {
+    "id": "231",
+    "hanzi": "哪些",
+    "pinyin": "nǎxiē",
+    "traduction": "lesquels"
+  },
+  {
+    "id": "232",
+    "hanzi": "出租车",
+    "pinyin": "chūzūchē",
+    "traduction": "taxi"
+  },
+  {
+    "id": "233",
+    "hanzi": "下班",
+    "pinyin": "xiàbān",
+    "traduction": "finir le travail"
+  },
+  {
+    "id": "234",
+    "hanzi": "白天",
+    "pinyin": "báitiān",
+    "traduction": "journée, le jour"
+  },
+  {
+    "id": "235",
+    "hanzi": "火车",
+    "pinyin": "huǒchē",
+    "traduction": "train"
+  },
+  {
+    "id": "236",
+    "hanzi": "开车",
+    "pinyin": "kāichē",
+    "traduction": "conduire"
+  },
+  {
+    "id": "237",
+    "hanzi": "上学",
+    "pinyin": "shàngxué",
+    "traduction": "aller à l'école"
+  },
+  {
+    "id": "238",
+    "hanzi": "鸡蛋",
+    "pinyin": "jīdàn",
+    "traduction": "œuf de poule"
+  },
+  {
+    "id": "239",
+    "hanzi": "弟弟",
+    "pinyin": "dìdi",
+    "traduction": "petit frère"
+  },
+  {
+    "id": "240",
+    "hanzi": "女士",
+    "pinyin": "nǚshì",
+    "traduction": "madame, dame"
+  },
+  {
+    "id": "241",
+    "hanzi": "好听",
+    "pinyin": "hǎotīng",
+    "traduction": "agréable à écouter"
+  },
+  {
+    "id": "242",
+    "hanzi": "那边",
+    "pinyin": "nàbiān",
+    "traduction": "là-bas, de ce côté-là"
+  },
+  {
+    "id": "243",
+    "hanzi": "再见",
+    "pinyin": "zàijiàn",
+    "traduction": "au revoir"
+  },
+  {
+    "id": "244",
+    "hanzi": "饭店",
+    "pinyin": "fàndiàn",
+    "traduction": "restaurant, hôtel"
+  },
+  {
+    "id": "245",
+    "hanzi": "小朋友",
+    "pinyin": "xiǎopéngyǒu",
+    "traduction": "enfant, gamin"
+  },
+  {
+    "id": "246",
+    "hanzi": "下雨",
+    "pinyin": "xià yǔ",
+    "traduction": "pleuvoir"
+  },
+  {
+    "id": "247",
+    "hanzi": "哪儿",
+    "pinyin": "nǎr",
+    "traduction": "où (oral)"
+  },
+  {
+    "id": "248",
+    "hanzi": "这边",
+    "pinyin": "zhèbiān",
+    "traduction": "par ici, de ce côté"
+  },
+  {
+    "id": "249",
+    "hanzi": "这儿",
+    "pinyin": "zhèr",
+    "traduction": "ici (oral)"
+  },
+  {
+    "id": "250",
+    "hanzi": "女朋友",
+    "pinyin": "nǚpéngyou",
+    "traduction": "petite amie"
+  },
+  {
+    "id": "251",
+    "hanzi": "商店",
+    "pinyin": "shāngdiàn",
+    "traduction": "magasin, commerce"
+  },
+  {
+    "id": "252",
+    "hanzi": "请问",
+    "pinyin": "qǐngwèn",
+    "traduction": "excusez-moi, puis-je demander"
+  },
+  {
+    "id": "253",
+    "hanzi": "听见",
+    "pinyin": "tīngjiàn",
+    "traduction": "entendre"
+  },
+  {
+    "id": "254",
+    "hanzi": "男朋友",
+    "pinyin": "nánpéngyou",
+    "traduction": "petit ami"
+  },
+  {
+    "id": "255",
+    "hanzi": "汉语",
+    "pinyin": "Hànyǔ",
+    "traduction": "langue chinoise"
+  },
+  {
+    "id": "256",
+    "hanzi": "桌子",
+    "pinyin": "zhuōzi",
+    "traduction": "table, bureau"
+  },
+  {
+    "id": "257",
+    "hanzi": "晚饭",
+    "pinyin": "wǎnfàn",
+    "traduction": "dîner"
+  },
+  {
+    "id": "258",
+    "hanzi": "生病",
+    "pinyin": "shēngbìng",
+    "traduction": "tomber malade"
+  },
+  {
+    "id": "259",
+    "hanzi": "面包",
+    "pinyin": "miànbāo",
+    "traduction": "pain"
+  },
+  {
+    "id": "260",
+    "hanzi": "看病",
+    "pinyin": "kànbìng",
+    "traduction": "aller chez le médecin"
+  },
+  {
+    "id": "261",
+    "hanzi": "没关系",
+    "pinyin": "méi guānxi",
+    "traduction": "peu importe, ce n'est pas grave"
+  },
+  {
+    "id": "262",
+    "hanzi": "那儿",
+    "pinyin": "nàr",
+    "traduction": "là-bas (oral)"
+  },
+  {
+    "id": "263",
+    "hanzi": "椅子",
+    "pinyin": "yǐzi",
+    "traduction": "chaise"
+  },
+  {
+    "id": "264",
+    "hanzi": "做饭",
+    "pinyin": "zuò fàn",
+    "traduction": "cuisiner"
+  },
+  {
+    "id": "265",
+    "hanzi": "饺子",
+    "pinyin": "jiǎozi",
+    "traduction": "ravioli chinois"
+  },
+  {
+    "id": "266",
+    "hanzi": "小学生",
+    "pinyin": "xiǎoxuéshēng",
+    "traduction": "écolier"
+  },
+  {
+    "id": "267",
+    "hanzi": "书店",
+    "pinyin": "shūdiàn",
+    "traduction": "librairie"
+  },
+  {
+    "id": "268",
+    "hanzi": "中学生",
+    "pinyin": "zhōngxuéshēng",
+    "traduction": "collégien, lycéen"
+  },
+  {
+    "id": "269",
+    "hanzi": "午饭",
+    "pinyin": "wǔfàn",
+    "traduction": "déjeuner"
+  },
+  {
+    "id": "270",
+    "hanzi": "杯子",
+    "pinyin": "bēizi",
+    "traduction": "tasse, verre"
+  },
+  {
+    "id": "271",
+    "hanzi": "下课",
+    "pinyin": "xiàkè",
+    "traduction": "finir les cours"
+  },
+  {
+    "id": "272",
+    "hanzi": "电影院",
+    "pinyin": "diànyǐngyuàn",
+    "traduction": "cinéma"
+  },
+  {
+    "id": "273",
+    "hanzi": "包子",
+    "pinyin": "bāozi",
+    "traduction": "brioche farcie à la vapeur"
+  },
+  {
+    "id": "274",
+    "hanzi": "早饭",
+    "pinyin": "zǎofàn",
+    "traduction": "petit déjeuner"
+  },
+  {
+    "id": "275",
+    "hanzi": "汉字",
+    "pinyin": "Hànzì",
+    "traduction": "caractère chinois"
+  },
+  {
+    "id": "276",
+    "hanzi": "星期天",
+    "pinyin": "xīngqītiān",
+    "traduction": "dimanche"
+  },
+  {
+    "id": "277",
+    "hanzi": "有点儿",
+    "pinyin": "yǒudiǎnr",
+    "traduction": "un peu (trop)"
+  },
+  {
+    "id": "278",
+    "hanzi": "米饭",
+    "pinyin": "mǐfàn",
+    "traduction": "riz cuit"
+  },
+  {
+    "id": "279",
+    "hanzi": "一点儿",
+    "pinyin": "yìdiǎnr",
+    "traduction": "un peu (de)"
+  },
+  {
+    "id": "280",
+    "hanzi": "星期日",
+    "pinyin": "xīngqīrì",
+    "traduction": "dimanche (formel)"
+  },
+  {
+    "id": "281",
+    "hanzi": "外边",
+    "pinyin": "wàibian",
+    "traduction": "dehors, extérieur"
+  },
+  {
+    "id": "282",
+    "hanzi": "不客气",
+    "pinyin": "bú kèqi",
+    "traduction": "de rien"
+  },
+  {
+    "id": "283",
+    "hanzi": "好玩儿",
+    "pinyin": "hǎowánr",
+    "traduction": "amusant"
+  },
+  {
+    "id": "284",
+    "hanzi": "八",
+    "pinyin": "bā",
+    "traduction": "8, huit"
+  },
+  {
+    "id": "285",
+    "hanzi": "百",
+    "pinyin": "bǎi",
+    "traduction": "cent, 100"
+  },
+  {
+    "id": "286",
+    "hanzi": "超市",
+    "pinyin": "chāoshì",
+    "traduction": "supermarché"
+  },
+  {
+    "id": "287",
+    "hanzi": "点",
+    "pinyin": "diǎn",
+    "traduction": "point, heure"
+  },
+  {
+    "id": "288",
+    "hanzi": "多",
+    "pinyin": "duō",
+    "traduction": "beaucoup"
+  },
+  {
+    "id": "289",
+    "hanzi": "二",
+    "pinyin": "èr",
+    "traduction": "2, deux"
+  },
+  {
+    "id": "290",
+    "hanzi": "九",
+    "pinyin": "jiǔ",
+    "traduction": "9, neuf"
+  },
+  {
+    "id": "291",
+    "hanzi": "零",
+    "pinyin": "líng",
+    "traduction": "0, zéro"
+  },
+  {
+    "id": "292",
+    "hanzi": "六",
+    "pinyin": "liù",
+    "traduction": "6, six"
+  },
+  {
+    "id": "293",
+    "hanzi": "面条儿",
+    "pinyin": "miàntiáor",
+    "traduction": "nouilles"
+  },
+  {
+    "id": "294",
+    "hanzi": "七",
+    "pinyin": "qī",
+    "traduction": "7, sept"
+  },
+  {
+    "id": "295",
+    "hanzi": "千",
+    "pinyin": "qiān",
+    "traduction": "mille, 1000"
+  },
+  {
+    "id": "296",
+    "hanzi": "三",
+    "pinyin": "sān",
+    "traduction": "3, trois"
+  },
+  {
+    "id": "297",
+    "hanzi": "十",
+    "pinyin": "shí",
+    "traduction": "10, dix"
+  },
+  {
+    "id": "298",
+    "hanzi": "手机",
+    "pinyin": "shǒujī",
+    "traduction": "téléphone portable"
+  },
+  {
+    "id": "299",
+    "hanzi": "四",
+    "pinyin": "sì",
+    "traduction": "4, quatre"
+  },
+  {
+    "id": "300",
+    "hanzi": "五",
+    "pinyin": "wǔ",
+    "traduction": "5, cinq"
+  },
+  {
+    "id": "301",
+    "hanzi": "一",
+    "pinyin": "yī",
+    "traduction": "1, un"
+  },
+  {
+    "id": "302",
+    "hanzi": "就",
+    "pinyin": "jiù",
+    "traduction": "déjà, aussitôt, alors"
+  },
+  {
+    "id": "303",
+    "hanzi": "着",
+    "pinyin": "zhe",
+    "traduction": "indique le déroulement d'une action"
+  },
+  {
+    "id": "304",
+    "hanzi": "等",
+    "pinyin": "děng",
+    "traduction": "attendre, échelon, être égal à"
+  },
+  {
+    "id": "305",
+    "hanzi": "地",
+    "pinyin": "de",
+    "traduction": "particule adverbiale"
+  },
+  {
+    "id": "306",
+    "hanzi": "自己",
+    "pinyin": "zìjǐ",
+    "traduction": "soi-même"
+  },
+  {
+    "id": "307",
+    "hanzi": "但",
+    "pinyin": "dàn",
+    "traduction": "mais"
+  },
+  {
+    "id": "308",
+    "hanzi": "从",
+    "pinyin": "cóng",
+    "traduction": "(à partir) de, depuis"
+  },
+  {
+    "id": "309",
+    "hanzi": "时",
+    "pinyin": "shí",
+    "traduction": "temps, heure"
+  },
+  {
+    "id": "310",
+    "hanzi": "啊",
+    "pinyin": "a",
+    "traduction": "particule exclamative"
+  },
+  {
+    "id": "311",
+    "hanzi": "出",
+    "pinyin": "chū",
+    "traduction": "sortir, se produire"
+  },
+  {
+    "id": "312",
+    "hanzi": "得",
+    "pinyin": "de",
+    "traduction": "particule pour indiquer un résultat, une possibilité"
+  },
+  {
+    "id": "313",
+    "hanzi": "让",
+    "pinyin": "ràng",
+    "traduction": "céder, autoriser, permettre"
+  },
+  {
+    "id": "314",
+    "hanzi": "过",
+    "pinyin": "guò",
+    "traduction": "traverser, passer du temps"
+  },
+  {
+    "id": "315",
+    "hanzi": "最",
+    "pinyin": "zuì",
+    "traduction": "le plus"
+  },
+  {
+    "id": "316",
+    "hanzi": "已经",
+    "pinyin": "yǐjīng",
+    "traduction": "déjà"
+  },
+  {
+    "id": "317",
+    "hanzi": "次",
+    "pinyin": "cì",
+    "traduction": "fois"
+  },
+  {
+    "id": "318",
+    "hanzi": "这样",
+    "pinyin": "zhèyàng",
+    "traduction": "ainsi, comme ça"
+  },
+  {
+    "id": "319",
+    "hanzi": "名",
+    "pinyin": "míng",
+    "traduction": "nom, classificateur de personnes"
+  },
+  {
+    "id": "320",
+    "hanzi": "因为",
+    "pinyin": "yīnwèi",
+    "traduction": "car, parce que, à cause de"
+  },
+  {
+    "id": "321",
+    "hanzi": "还是",
+    "pinyin": "háishi",
+    "traduction": "ou (bien), quand même"
+  },
+  {
+    "id": "322",
+    "hanzi": "位",
+    "pinyin": "wèi",
+    "traduction": "classificateur de personnes (poli)"
+  },
+  {
+    "id": "323",
+    "hanzi": "比",
+    "pinyin": "bǐ",
+    "traduction": "comparer, par rapport à"
+  },
+  {
+    "id": "324",
+    "hanzi": "高",
+    "pinyin": "gāo",
+    "traduction": "haut, grand"
+  },
+  {
+    "id": "325",
+    "hanzi": "手",
+    "pinyin": "shǒu",
+    "traduction": "main"
+  },
+  {
+    "id": "326",
+    "hanzi": "开始",
+    "pinyin": "kāishǐ",
+    "traduction": "début, commencer"
+  },
+  {
+    "id": "327",
+    "hanzi": "但是",
+    "pinyin": "dànshì",
+    "traduction": "mais, cependant"
+  },
+  {
+    "id": "328",
+    "hanzi": "走",
+    "pinyin": "zǒu",
+    "traduction": "marcher, partir"
+  },
+  {
+    "id": "329",
+    "hanzi": "可能",
+    "pinyin": "kěnéng",
+    "traduction": "peut-être, possible, probable"
+  },
+  {
+    "id": "330",
+    "hanzi": "打",
+    "pinyin": "dǎ",
+    "traduction": "frapper, jouer (au ballon)"
+  },
+  {
+    "id": "331",
+    "hanzi": "所以",
+    "pinyin": "suǒyǐ",
+    "traduction": "par conséquent, c'est pourquoi, ainsi"
+  },
+  {
+    "id": "332",
+    "hanzi": "长",
+    "pinyin": "cháng",
+    "traduction": "longueur, long"
+  },
+  {
+    "id": "333",
+    "hanzi": "跟",
+    "pinyin": "gēn",
+    "traduction": "avec, suivre"
+  },
+  {
+    "id": "334",
+    "hanzi": "希望",
+    "pinyin": "xīwàng",
+    "traduction": "espérer, désirer, espoir"
+  },
+  {
+    "id": "335",
+    "hanzi": "一起",
+    "pinyin": "yìqǐ",
+    "traduction": "ensemble, avec"
+  },
+  {
+    "id": "336",
+    "hanzi": "那么",
+    "pinyin": "nàme",
+    "traduction": "si, tellement"
+  },
+  {
+    "id": "337",
+    "hanzi": "起来",
+    "pinyin": "qǐlái",
+    "traduction": "se lever"
+  },
+  {
+    "id": "338",
+    "hanzi": "快",
+    "pinyin": "kuài",
+    "traduction": "rapide, vite"
+  },
+  {
+    "id": "339",
+    "hanzi": "这么",
+    "pinyin": "zhème",
+    "traduction": "si, comme ça"
+  },
+  {
+    "id": "340",
+    "hanzi": "虽然",
+    "pinyin": "suīrán",
+    "traduction": "bien que"
+  },
+  {
+    "id": "341",
+    "hanzi": "笑",
+    "pinyin": "xiào",
+    "traduction": "rire, sourire"
+  },
+  {
+    "id": "342",
+    "hanzi": "条",
+    "pinyin": "tiáo",
+    "traduction": "classificateur pour objets longs"
+  },
+  {
+    "id": "343",
+    "hanzi": "出来",
+    "pinyin": "chūlái",
+    "traduction": "sortir (vers ici)"
+  },
+  {
+    "id": "344",
+    "hanzi": "周",
+    "pinyin": "zhōu",
+    "traduction": "semaine"
+  },
+  {
+    "id": "345",
+    "hanzi": "每",
+    "pinyin": "měi",
+    "traduction": "chaque, chacun, tous"
+  },
+  {
+    "id": "346",
+    "hanzi": "路",
+    "pinyin": "lù",
+    "traduction": "chemin, route, trajet"
+  },
+  {
+    "id": "347",
+    "hanzi": "头",
+    "pinyin": "tóu",
+    "traduction": "tête"
+  },
+  {
+    "id": "348",
+    "hanzi": "别",
+    "pinyin": "bié",
+    "traduction": "ne pas (impératif), autre"
+  },
+  {
+    "id": "349",
+    "hanzi": "正",
+    "pinyin": "zhèng",
+    "traduction": "juste, en train de"
+  },
+  {
+    "id": "350",
+    "hanzi": "事情",
+    "pinyin": "shìqing",
+    "traduction": "affaire, chose, besogne"
+  },
+  {
+    "id": "351",
+    "hanzi": "面",
+    "pinyin": "miàn",
+    "traduction": "côté, surface"
+  },
+  {
+    "id": "352",
+    "hanzi": "介绍",
+    "pinyin": "jièshào",
+    "traduction": "présenter, introduire, recommander"
+  },
+  {
+    "id": "353",
+    "hanzi": "告诉",
+    "pinyin": "gàosu",
+    "traduction": "dire, informer"
+  },
+  {
+    "id": "354",
+    "hanzi": "过去",
+    "pinyin": "guòqù",
+    "traduction": "passé, passer"
+  },
+  {
+    "id": "355",
+    "hanzi": "拿",
+    "pinyin": "ná",
+    "traduction": "prendre, tenir"
+  },
+  {
+    "id": "356",
+    "hanzi": "站",
+    "pinyin": "zhàn",
+    "traduction": "station, arrêt"
+  },
+  {
+    "id": "357",
+    "hanzi": "进",
+    "pinyin": "jìn",
+    "traduction": "avancer, entrer"
+  },
+  {
+    "id": "358",
+    "hanzi": "门",
+    "pinyin": "mén",
+    "traduction": "porte, entrée"
+  },
+  {
+    "id": "359",
+    "hanzi": "送",
+    "pinyin": "sòng",
+    "traduction": "envoyer, livrer, offrir"
+  },
+  {
+    "id": "360",
+    "hanzi": "完",
+    "pinyin": "wán",
+    "traduction": "terminer, finir, complet"
+  },
+  {
+    "id": "361",
+    "hanzi": "准备",
+    "pinyin": "zhǔnbèi",
+    "traduction": "préparer, s'apprêter à"
+  },
+  {
+    "id": "362",
+    "hanzi": "花",
+    "pinyin": "huā",
+    "traduction": "fleur"
+  },
+  {
+    "id": "363",
+    "hanzi": "间",
+    "pinyin": "jiān",
+    "traduction": "classificateur pour pièces"
+  },
+  {
+    "id": "364",
+    "hanzi": "为什么",
+    "pinyin": "wèi shénme",
+    "traduction": "pourquoi"
+  },
+  {
+    "id": "365",
+    "hanzi": "近",
+    "pinyin": "jìn",
+    "traduction": "proche, près de"
+  },
+  {
+    "id": "366",
+    "hanzi": "不错",
+    "pinyin": "búcuò",
+    "traduction": "pas mal, plutôt bien"
+  },
+  {
+    "id": "367",
+    "hanzi": "球",
+    "pinyin": "qiú",
+    "traduction": "balle, ballon"
+  },
+  {
+    "id": "368",
+    "hanzi": "帮",
+    "pinyin": "bāng",
+    "traduction": "aider"
+  },
+  {
+    "id": "369",
+    "hanzi": "楼",
+    "pinyin": "lóu",
+    "traduction": "immeuble, étage"
+  },
+  {
+    "id": "370",
+    "hanzi": "包",
+    "pinyin": "bāo",
+    "traduction": "sac, emballer"
+  },
+  {
+    "id": "371",
+    "hanzi": "快乐",
+    "pinyin": "kuàilè",
+    "traduction": "joyeux, gai, heureux"
+  },
+  {
+    "id": "372",
+    "hanzi": "药",
+    "pinyin": "yào",
+    "traduction": "médicament"
+  },
+  {
+    "id": "373",
+    "hanzi": "飞",
+    "pinyin": "fēi",
+    "traduction": "voler"
+  },
+  {
+    "id": "374",
+    "hanzi": "远",
+    "pinyin": "yuǎn",
+    "traduction": "éloigné, loin"
+  },
+  {
+    "id": "375",
+    "hanzi": "动",
+    "pinyin": "dòng",
+    "traduction": "bouger"
+  },
+  {
+    "id": "376",
+    "hanzi": "回来",
+    "pinyin": "huílái",
+    "traduction": "revenir"
+  },
+  {
+    "id": "377",
+    "hanzi": "身体",
+    "pinyin": "shēntǐ",
+    "traduction": "corps, santé"
+  },
+  {
+    "id": "378",
+    "hanzi": "跑",
+    "pinyin": "pǎo",
+    "traduction": "courir"
+  },
+  {
+    "id": "379",
+    "hanzi": "运动",
+    "pinyin": "yùndòng",
+    "traduction": "sport, mouvement, bouger"
+  },
+  {
+    "id": "380",
+    "hanzi": "旅游",
+    "pinyin": "lǚyóu",
+    "traduction": "voyager, voyage, tourisme"
+  },
+  {
+    "id": "381",
+    "hanzi": "懂",
+    "pinyin": "dǒng",
+    "traduction": "comprendre, savoir"
+  },
+  {
+    "id": "382",
+    "hanzi": "错",
+    "pinyin": "cuò",
+    "traduction": "faux, erreur"
+  },
+  {
+    "id": "383",
+    "hanzi": "里面",
+    "pinyin": "lǐmiàn",
+    "traduction": "dedans, intérieur"
+  },
+  {
+    "id": "384",
+    "hanzi": "经常",
+    "pinyin": "jīngcháng",
+    "traduction": "souvent"
+  },
+  {
+    "id": "385",
+    "hanzi": "往",
+    "pinyin": "wǎng",
+    "traduction": "vers"
+  },
+  {
+    "id": "386",
+    "hanzi": "下来",
+    "pinyin": "xiàlái",
+    "traduction": "descendre (vers ici)"
+  },
+  {
+    "id": "387",
+    "hanzi": "眼睛",
+    "pinyin": "yǎnjing",
+    "traduction": "œil, yeux"
+  },
+  {
+    "id": "388",
+    "hanzi": "票",
+    "pinyin": "piào",
+    "traduction": "ticket, billet, bulletin de vote"
+  },
+  {
+    "id": "389",
+    "hanzi": "考试",
+    "pinyin": "kǎoshì",
+    "traduction": "examen, épreuve"
+  },
+  {
+    "id": "390",
+    "hanzi": "记得",
+    "pinyin": "jìde",
+    "traduction": "se souvenir"
+  },
+  {
+    "id": "391",
+    "hanzi": "过来",
+    "pinyin": "guòlái",
+    "traduction": "venir (par ici)"
+  },
+  {
+    "id": "392",
+    "hanzi": "累",
+    "pinyin": "lèi",
+    "traduction": "fatigué, épuisé"
+  },
+  {
+    "id": "393",
+    "hanzi": "班",
+    "pinyin": "bān",
+    "traduction": "classe, service"
+  },
+  {
+    "id": "394",
+    "hanzi": "左",
+    "pinyin": "zuǒ",
+    "traduction": "gauche"
+  },
+  {
+    "id": "395",
+    "hanzi": "鱼",
+    "pinyin": "yú",
+    "traduction": "poisson"
+  },
+  {
+    "id": "396",
+    "hanzi": "下去",
+    "pinyin": "xiàqù",
+    "traduction": "descendre (vers là-bas)"
+  },
+  {
+    "id": "397",
+    "hanzi": "考",
+    "pinyin": "kǎo",
+    "traduction": "passer un examen"
+  },
+  {
+    "id": "398",
+    "hanzi": "肉",
+    "pinyin": "ròu",
+    "traduction": "viande"
+  },
+  {
+    "id": "399",
+    "hanzi": "出去",
+    "pinyin": "chūqù",
+    "traduction": "sortir"
+  },
+  {
+    "id": "400",
+    "hanzi": "离",
+    "pinyin": "lí",
+    "traduction": "quitter, se séparer, distant de"
+  },
+  {
+    "id": "401",
+    "hanzi": "那样",
+    "pinyin": "nàyàng",
+    "traduction": "comme ça, ainsi"
+  },
+  {
+    "id": "402",
+    "hanzi": "教",
+    "pinyin": "jiāo",
+    "traduction": "enseigner"
+  },
+  {
+    "id": "403",
+    "hanzi": "右",
+    "pinyin": "yòu",
+    "traduction": "droite"
+  },
+  {
+    "id": "404",
+    "hanzi": "床",
+    "pinyin": "chuáng",
+    "traduction": "lit"
+  },
+  {
+    "id": "405",
+    "hanzi": "画",
+    "pinyin": "huà",
+    "traduction": "dessiner, peinture"
+  },
+  {
+    "id": "406",
+    "hanzi": "笔",
+    "pinyin": "bǐ",
+    "traduction": "stylo"
+  },
+  {
+    "id": "407",
+    "hanzi": "忘",
+    "pinyin": "wàng",
+    "traduction": "oublier"
+  },
+  {
+    "id": "408",
+    "hanzi": "足球",
+    "pinyin": "zúqiú",
+    "traduction": "football"
+  },
+  {
+    "id": "409",
+    "hanzi": "洗",
+    "pinyin": "xǐ",
+    "traduction": "laver, nettoyer"
+  },
+  {
+    "id": "410",
+    "hanzi": "打开",
+    "pinyin": "dǎkāi",
+    "traduction": "ouvrir, allumer"
+  },
+  {
+    "id": "411",
+    "hanzi": "意思",
+    "pinyin": "yìsi",
+    "traduction": "sens, opinion, signification"
+  },
+  {
+    "id": "412",
+    "hanzi": "题",
+    "pinyin": "tí",
+    "traduction": "sujet, inscrire, question"
+  },
+  {
+    "id": "413",
+    "hanzi": "妻子",
+    "pinyin": "qīzi",
+    "traduction": "femme, épouse"
+  },
+  {
+    "id": "414",
+    "hanzi": "鸟",
+    "pinyin": "niǎo",
+    "traduction": "oiseau"
+  },
+  {
+    "id": "415",
+    "hanzi": "上面",
+    "pinyin": "shàngmiàn",
+    "traduction": "dessus, en haut"
+  },
+  {
+    "id": "416",
+    "hanzi": "回去",
+    "pinyin": "huíqù",
+    "traduction": "retourner"
+  },
+  {
+    "id": "417",
+    "hanzi": "后面",
+    "pinyin": "hòumiàn",
+    "traduction": "derrière, en arrière"
+  },
+  {
+    "id": "418",
+    "hanzi": "游",
+    "pinyin": "yóu",
+    "traduction": "nager"
+  },
+  {
+    "id": "419",
+    "hanzi": "酒店",
+    "pinyin": "jiǔdiàn",
+    "traduction": "hôtel"
+  },
+  {
+    "id": "420",
+    "hanzi": "有时",
+    "pinyin": "yǒushí",
+    "traduction": "parfois"
+  },
+  {
+    "id": "421",
+    "hanzi": "坏",
+    "pinyin": "huài",
+    "traduction": "mauvais, cassé"
+  },
+  {
+    "id": "422",
+    "hanzi": "下面",
+    "pinyin": "xiàmiàn",
+    "traduction": "dessous, en bas"
+  },
+  {
+    "id": "423",
+    "hanzi": "疼",
+    "pinyin": "téng",
+    "traduction": "douloureux, faire mal"
+  },
+  {
+    "id": "424",
+    "hanzi": "外面",
+    "pinyin": "wàimiàn",
+    "traduction": "dehors"
+  },
+  {
+    "id": "425",
+    "hanzi": "绿色",
+    "pinyin": "lǜsè",
+    "traduction": "vert"
+  },
+  {
+    "id": "426",
+    "hanzi": "路上",
+    "pinyin": "lùshang",
+    "traduction": "en chemin"
+  },
+  {
+    "id": "427",
+    "hanzi": "颜色",
+    "pinyin": "yánsè",
+    "traduction": "couleur, apparence"
+  },
+  {
+    "id": "428",
+    "hanzi": "生日",
+    "pinyin": "shēngrì",
+    "traduction": "anniversaire"
+  },
+  {
+    "id": "429",
+    "hanzi": "丈夫",
+    "pinyin": "zhàngfu",
+    "traduction": "mari, époux"
+  },
+  {
+    "id": "430",
+    "hanzi": "词",
+    "pinyin": "cí",
+    "traduction": "mot"
+  },
+  {
+    "id": "431",
+    "hanzi": "前面",
+    "pinyin": "qiánmiàn",
+    "traduction": "devant, en avant"
+  },
+  {
+    "id": "432",
+    "hanzi": "有时候",
+    "pinyin": "yǒushíhou",
+    "traduction": "parfois, quelquefois"
+  },
+  {
+    "id": "433",
+    "hanzi": "旁边",
+    "pinyin": "pángbiān",
+    "traduction": "latéral, côté, à côté, tout près"
+  },
+  {
+    "id": "434",
+    "hanzi": "黑色",
+    "pinyin": "hēisè",
+    "traduction": "noir"
+  },
+  {
+    "id": "435",
+    "hanzi": "上来",
+    "pinyin": "shànglái",
+    "traduction": "monter (vers ici)"
+  },
+  {
+    "id": "436",
+    "hanzi": "慢",
+    "pinyin": "màn",
+    "traduction": "lent, lentement"
+  },
+  {
+    "id": "437",
+    "hanzi": "红色",
+    "pinyin": "hóngsè",
+    "traduction": "rouge"
+  },
+  {
+    "id": "438",
+    "hanzi": "过年",
+    "pinyin": "guònián",
+    "traduction": "fêter le Nouvel An"
+  },
+  {
+    "id": "439",
+    "hanzi": "外国",
+    "pinyin": "wàiguó",
+    "traduction": "pays étranger"
+  },
+  {
+    "id": "440",
+    "hanzi": "白色",
+    "pinyin": "báisè",
+    "traduction": "blanc"
+  },
+  {
+    "id": "441",
+    "hanzi": "咖啡",
+    "pinyin": "kāfēi",
+    "traduction": "café"
+  },
+  {
+    "id": "442",
+    "hanzi": "上网",
+    "pinyin": "shàngwǎng",
+    "traduction": "aller sur internet"
+  },
+  {
+    "id": "443",
+    "hanzi": "地铁",
+    "pinyin": "dìtiě",
+    "traduction": "métro"
+  },
+  {
+    "id": "444",
+    "hanzi": "出门",
+    "pinyin": "chūmén",
+    "traduction": "sortir de chez soi"
+  },
+  {
+    "id": "445",
+    "hanzi": "高中",
+    "pinyin": "gāozhōng",
+    "traduction": "lycée"
+  },
+  {
+    "id": "446",
+    "hanzi": "进去",
+    "pinyin": "jìnqù",
+    "traduction": "entrer (vers l'intérieur)"
+  },
+  {
+    "id": "447",
+    "hanzi": "上去",
+    "pinyin": "shàngqù",
+    "traduction": "monter (vers là-bas)"
+  },
+  {
+    "id": "448",
+    "hanzi": "阴",
+    "pinyin": "yīn",
+    "traduction": "ombre, nuageux, sombre"
+  },
+  {
+    "id": "449",
+    "hanzi": "机场",
+    "pinyin": "jīchǎng",
+    "traduction": "aéroport"
+  },
+  {
+    "id": "450",
+    "hanzi": "右边",
+    "pinyin": "yòubian",
+    "traduction": "droite, côté droit"
+  },
+  {
+    "id": "451",
+    "hanzi": "帮忙",
+    "pinyin": "bāngmáng",
+    "traduction": "aider, donner un coup de main"
+  },
+  {
+    "id": "452",
+    "hanzi": "进来",
+    "pinyin": "jìnlái",
+    "traduction": "entrer (vers ici)"
+  },
+  {
+    "id": "453",
+    "hanzi": "踢",
+    "pinyin": "tī",
+    "traduction": "donner un coup de pied"
+  },
+  {
+    "id": "454",
+    "hanzi": "一会儿",
+    "pinyin": "yíhuìr",
+    "traduction": "un moment, un instant"
+  },
+  {
+    "id": "455",
+    "hanzi": "舒服",
+    "pinyin": "shūfu",
+    "traduction": "confortable, à l'aise"
+  },
+  {
+    "id": "456",
+    "hanzi": "商场",
+    "pinyin": "shāngchǎng",
+    "traduction": "centre commercial"
+  },
+  {
+    "id": "457",
+    "hanzi": "小时候",
+    "pinyin": "xiǎoshíhou",
+    "traduction": "dans l'enfance"
+  },
+  {
+    "id": "458",
+    "hanzi": "晴",
+    "pinyin": "qíng",
+    "traduction": "beau temps, clair"
+  },
+  {
+    "id": "459",
+    "hanzi": "从小",
+    "pinyin": "cóngxiǎo",
+    "traduction": "depuis l'enfance"
+  },
+  {
+    "id": "460",
+    "hanzi": "篮球",
+    "pinyin": "lánqiú",
+    "traduction": "basket-ball"
+  },
+  {
+    "id": "461",
+    "hanzi": "奶奶",
+    "pinyin": "nǎinai",
+    "traduction": "grand-mère (paternelle)"
+  },
+  {
+    "id": "462",
+    "hanzi": "姓名",
+    "pinyin": "xìngmíng",
+    "traduction": "nom complet"
+  },
+  {
+    "id": "463",
+    "hanzi": "爷爷",
+    "pinyin": "yéye",
+    "traduction": "grand-père (paternel)"
+  },
+  {
+    "id": "464",
+    "hanzi": "姓",
+    "pinyin": "xìng",
+    "traduction": "nom de famille"
+  },
+  {
+    "id": "465",
+    "hanzi": "游泳",
+    "pinyin": "yóuyǒng",
+    "traduction": "natation, nager"
+  },
+  {
+    "id": "466",
+    "hanzi": "不好意思",
+    "pinyin": "bù hǎoyìsi",
+    "traduction": "désolé, gêné"
+  },
+  {
+    "id": "467",
+    "hanzi": "有意思",
+    "pinyin": "yǒu yìsi",
+    "traduction": "intéressant, amusant"
+  },
+  {
+    "id": "468",
+    "hanzi": "门票",
+    "pinyin": "ménpiào",
+    "traduction": "billet d'entrée"
+  },
+  {
+    "id": "469",
+    "hanzi": "车站",
+    "pinyin": "chēzhàn",
+    "traduction": "gare, arrêt"
+  },
+  {
+    "id": "470",
+    "hanzi": "教室",
+    "pinyin": "jiàoshì",
+    "traduction": "salle de classe"
+  },
+  {
+    "id": "471",
+    "hanzi": "爱好",
+    "pinyin": "àihào",
+    "traduction": "passe-temps, aimer"
+  },
+  {
+    "id": "472",
+    "hanzi": "出国",
+    "pinyin": "chūguó",
+    "traduction": "partir à l'étranger"
+  },
+  {
+    "id": "473",
+    "hanzi": "裤子",
+    "pinyin": "kùzi",
+    "traduction": "pantalon"
+  },
+  {
+    "id": "474",
+    "hanzi": "走路",
+    "pinyin": "zǒulù",
+    "traduction": "marcher, aller à pied"
+  },
+  {
+    "id": "475",
+    "hanzi": "机票",
+    "pinyin": "jīpiào",
+    "traduction": "billet d'avion"
+  },
+  {
+    "id": "476",
+    "hanzi": "左边",
+    "pinyin": "zuǒbian",
+    "traduction": "gauche, côté gauche"
+  },
+  {
+    "id": "477",
+    "hanzi": "跳舞",
+    "pinyin": "tiàowǔ",
+    "traduction": "danser"
+  },
+  {
+    "id": "478",
+    "hanzi": "快要",
+    "pinyin": "kuàiyào",
+    "traduction": "sur le point de"
+  },
+  {
+    "id": "479",
+    "hanzi": "手表",
+    "pinyin": "shǒubiǎo",
+    "traduction": "montre"
+  },
+  {
+    "id": "480",
+    "hanzi": "开学",
+    "pinyin": "kāixué",
+    "traduction": "faire sa rentrée"
+  },
+  {
+    "id": "481",
+    "hanzi": "药店",
+    "pinyin": "yàodiàn",
+    "traduction": "pharmacie"
+  },
+  {
+    "id": "482",
+    "hanzi": "奶茶",
+    "pinyin": "nǎichá",
+    "traduction": "thé au lait"
+  },
+  {
+    "id": "483",
+    "hanzi": "跑步",
+    "pinyin": "pǎobù",
+    "traduction": "courir, faire du jogging"
+  },
+  {
+    "id": "484",
+    "hanzi": "绿茶",
+    "pinyin": "lǜchá",
+    "traduction": "thé vert"
+  },
+  {
+    "id": "485",
+    "hanzi": "书包",
+    "pinyin": "shūbāo",
+    "traduction": "cartable"
+  },
+  {
+    "id": "486",
+    "hanzi": "个子",
+    "pinyin": "gèzi",
+    "traduction": "taille, stature"
+  },
+  {
+    "id": "487",
+    "hanzi": "没意思",
+    "pinyin": "méi yìsi",
+    "traduction": "ennuyeux"
+  },
+  {
+    "id": "488",
+    "hanzi": "本子",
+    "pinyin": "běnzi",
+    "traduction": "cahier"
+  },
+  {
+    "id": "489",
+    "hanzi": "洗手间",
+    "pinyin": "xǐshǒujiān",
+    "traduction": "toilettes"
+  },
+  {
+    "id": "490",
+    "hanzi": "红茶",
+    "pinyin": "hóngchá",
+    "traduction": "thé noir"
+  },
+  {
+    "id": "491",
+    "hanzi": "饭馆",
+    "pinyin": "fànguǎn",
+    "traduction": "restaurant"
+  },
+  {
+    "id": "492",
+    "hanzi": "女孩儿",
+    "pinyin": "nǚháir",
+    "traduction": "fille"
+  },
+  {
+    "id": "493",
+    "hanzi": "小孩儿",
+    "pinyin": "xiǎoháir",
+    "traduction": "enfant"
+  },
+  {
+    "id": "494",
+    "hanzi": "打车",
+    "pinyin": "dǎchē",
+    "traduction": "prendre un taxi"
+  },
+  {
+    "id": "495",
+    "hanzi": "公交车",
+    "pinyin": "gōngjiāochē",
+    "traduction": "bus"
+  },
+  {
+    "id": "496",
+    "hanzi": "门口",
+    "pinyin": "ménkǒu",
+    "traduction": "entrée, porte"
+  },
+  {
+    "id": "497",
+    "hanzi": "男孩儿",
+    "pinyin": "nánháir",
+    "traduction": "garçon"
+  },
+  {
+    "id": "498",
+    "hanzi": "万",
+    "pinyin": "wàn",
+    "traduction": "dix mille"
+  },
+  {
+    "id": "499",
+    "hanzi": "网上",
+    "pinyin": "wǎngshang",
+    "traduction": "en ligne, sur internet"
+  }
+]

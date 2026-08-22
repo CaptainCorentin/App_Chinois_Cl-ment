@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "titre": "Se présenter",
+    "traduction": "Bonjour, je m'appelle Ana. Je suis française. Je suis très heureuse de te rencontrer.",
+    "mots": [
+      { "hanzi": "你好", "pinyin": "nǐ hǎo" },
+      { "hanzi": "，", "pinyin": "" },
+      { "hanzi": "我", "pinyin": "wǒ" },
+      { "hanzi": "叫", "pinyin": "jiào" },
+      { "hanzi": "安娜", "pinyin": "Ān nà" },
+      { "hanzi": "。", "pinyin": "" },
+      { "hanzi": "我", "pinyin": "wǒ" },
+      { "hanzi": "是", "pinyin": "shì" },
+      { "hanzi": "法国人", "pinyin": "Fǎ guó rén" },
+      { "hanzi": "。", "pinyin": "" },
+      { "hanzi": "很", "pinyin": "hěn" },
+      { "hanzi": "高兴", "pinyin": "gāo xìng" },
+      { "hanzi": "认识", "pinyin": "rèn shi" },
+      { "hanzi": "你", "pinyin": "nǐ" },
+      { "hanzi": "。", "pinyin": "" }
+    ]
+  }
+]
